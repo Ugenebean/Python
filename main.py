@@ -1,2 +1,1 @@
-print('Hisssssss...')
-function_name(argument)
+print('hello python')
