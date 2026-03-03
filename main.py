@@ -1,5 +1,2 @@
-print('hello python')
-print("The itsy bitsy spider\nclimbed up the waterspout.")
-print()
-print("Down came the rain\nand washed the spider out.")
-print("The itsy bitsy spider" , "climbed up" , "the waterspout.")
+print("My name is", "Python.")
+print("Monty Python.")
