@@ -1,4 +1,12 @@
-leg_a = float(input("Input first leg length: "))
-leg_b = float(input("Input second leg length: "))
-hypo = (leg_a**2 + leg_b**2) ** .5
-print("Hypotenuse length is", hypo)
+# Read two numbers
+number1 = int(input("Enter the first number: "))
+number2 = int(input("Enter the second number: "))
+
+# Choose the larger number
+if number1 > number2:
+    larger_number = number1
+else:
+    larger_number = number2
+
+# Print the result
+print("The larger number is:", larger_number)
