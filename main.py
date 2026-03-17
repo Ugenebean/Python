@@ -23,3 +23,17 @@ while number != 0:
 # Print results.
 print("Odd numbers count:", odd_numbers)
 print("Even numbers count:", even_numbers)
+
+
+secret_number = 777
+
+print(
+"""
++================================+
+| Welcome to my game, muggle!    |
+| Enter an integer number        |
+| and guess what number I've     |
+| picked for you.                |
+| So, what is the secret number? |
++================================+
+""")
